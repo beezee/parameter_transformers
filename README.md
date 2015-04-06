@@ -1,7 +1,7 @@
 # ParameterTransformers
 
 This gem provides a proxy which can encapsulate transformers to be
-applied to a given method/parameter combinations before the target
+applied to given method/parameter combinations before the target
 method is called.
 
 It is useful for scenarios where you might have a stateful value that
